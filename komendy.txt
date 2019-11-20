@@ -1,0 +1,3 @@
+autoprefixer-cli ./css/style.prefixed.css ./css/style.css
+
+nu-html-checker -f json *.html
